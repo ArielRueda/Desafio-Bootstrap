@@ -4,6 +4,12 @@
 	position: fixed;
 	top: 0;
 	z-index: 1000;
+
+
+}
+
+.container-fluid a{
+	text-decoration: underline;
 }
 
 
@@ -47,12 +53,21 @@
  	top: -1.9rem;
  }
 
+
+#contacto{
+	position: relative;
+	top: 5rem;
+	width: 80%;
+	left: 3rem;
+}
+
+
 #footer{
-	position: absolute;
-	top: 75rem;
+	position: relative;
+	top: 0rem;
 	background-color:#703048;
-	height: 25%;
-	width: 100vw
+	height: 10rem;
+	width: 100%;
 }
 .footer-galeria{
 font-size: 1.5rem;
