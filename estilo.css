@@ -1,0 +1,68 @@
+
+.container-fluid{
+	background-color:#F01F6C;
+	position: fixed;
+	top: 0;
+	z-index: 1000;
+}
+
+
+.carousel-inner div img{
+
+	
+	background-size: cover;
+	height: 100vh;
+	object-fit: cover;
+	background-position: center;
+
+
+}
+#card{
+	width: 100%;
+	
+	}
+
+
+
+ .icono-bolsa1{ 
+ 	position: relative;
+ 	left: 13rem;
+
+
+
+ }
+ .icono-bolsa2{ 
+ 	position: relative;
+ 	left: 24rem;
+
+
+
+ }
+ .titulo{
+ 	font-size: 1.5rem;
+ 	line-height: 0.8rem;
+ }
+ .mapa{
+ 	position: relative;
+ 	top: -1.9rem;
+ }
+
+#footer{
+	position: absolute;
+	top: 75rem;
+	background-color:#703048;
+	height: 25%;
+	width: 100vw
+}
+.footer-galeria{
+font-size: 1.5rem;
+color: black;
+text-decoration:  underline;
+
+}
+
+
+ .redes li{
+ 	list-style: none;
+ 	 
+ }
